@@ -10,6 +10,7 @@ const Header = () => {
         <button className="header-button">About</button>
         <button className="header-button">Travel</button>
         <button className="header-button">Relax</button>
+        <button className="header-button">Eat</button>
       </div>
       <a href="https://www.instagram.com/shotsbyaman/" target="_blank" rel="noopener noreferrer">
           <img src={instagramLogo} alt="Instagram Logo" className="instagram-logo" />

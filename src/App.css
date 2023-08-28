@@ -1,6 +1,7 @@
 .header {
+  position: fixed;
   background-color: rgb(238, 232, 232);
-  position: relative;
+  width: 97%;
   padding: 20px;
   display: flex;
   justify-content: space-between;

@@ -7,7 +7,7 @@ const Summary = () => {
       <img src={summaryLogo} alt="summary Image" className="summary-image" />
       <h2>Going Places</h2>
       <p>Welcome to ShotsByAman.
-        I haven’t been everywhere, but it’s on my list
+        Welcome to ShotsByAman, a captivating visual journey captured through the lens of a mobile phone as I travel across diverse countries and cities. Embark on an immersive experience as I share the world's beauty and uniqueness, frozen in stunning photographs taken during my adventures.
       </p>
     </section>
   );
