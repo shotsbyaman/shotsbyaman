@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/shotsbyaman/static/css/main.bbf23f10.css",
+    "main.js": "/shotsbyaman/static/js/main.4255757d.js",
+    "static/js/787.02211314.chunk.js": "/shotsbyaman/static/js/787.02211314.chunk.js",
+    "static/media/summary.jpg": "/shotsbyaman/static/media/summary.ee6435a76a49bf3289ea.jpg",
+    "static/media/instagram_logo.png": "/shotsbyaman/static/media/instagram_logo.069e717f039335d23fbe.png",
+    "index.html": "/shotsbyaman/index.html",
+    "main.bbf23f10.css.map": "/shotsbyaman/static/css/main.bbf23f10.css.map",
+    "main.4255757d.js.map": "/shotsbyaman/static/js/main.4255757d.js.map",
+    "787.02211314.chunk.js.map": "/shotsbyaman/static/js/787.02211314.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bbf23f10.css",
+    "static/js/main.4255757d.js"
+  ]
+}
